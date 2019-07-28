@@ -24,7 +24,6 @@ from sklearn.model_selection import train_test_split
 import random
 from keras.layers import merge
 from PIL import Image
-import PIL
 image_x = 320
 image_y = 320
 
